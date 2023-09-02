@@ -1,4 +1,4 @@
 # Installation
 ```
-curl -OL https://raw.githubusercontent.com/knterada5/termubuntu/main/start.sh; . start.sh
+curl -OL https://raw.githubusercontent.com/matsurix28/termubuntu/main/start.sh; . start.sh
 ```
